@@ -44,7 +44,7 @@ This project analyses customer churn for a subscription-based business using Pyt
 ## Project Structure
 - `notebooks/` – Python data cleaning and analysis.
 - `sql/` – SQL queries and business analysis.
-- `powerbi/` – Interactive dashboard and preview.
+- `Power bi/` – Interactive dashboard and preview.
 - `requirements.txt` – Python dependencies.
 - `.gitignore` – Files excluded from version control.
 
